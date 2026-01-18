@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m Tal<br><br>I’m a developer focused on building complex, rules-accurate web applications with a strong emphasis on structure, performance, and maintainability.<br>I’m currently developing a D&D 3.5 Character Management System using React, TypeScript, Vite, and Supabase, where I model intricate game mechanics into scalable, real-time systems.<br><br>I enjoy working close to the logic layer—designing clean data models, solving edge cases, and turning dense rule systems into intuitive user experiences.<br>I’m always interested in improving architecture, security, and performance, and I value solutions that are correct first, clever second.
+👋 Hi, I’m Tal<br><br>
+I’m a developer focused on building complex, well-structured web applications with a strong emphasis on correctness, performance, and maintainability.<br>
+I work primarily with modern frontend stacks and backend-as-a-service platforms, designing scalable systems, clean data models, and reliable application logic.
+
+I enjoy working close to the logic layer—solving edge cases, refining architecture, and turning complex requirements into intuitive, robust user experiences.<br>
+I’m always interested in improv
 
 
 ## 🌐 Socials:
